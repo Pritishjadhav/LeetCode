@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pritishjadhav/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Pritishjadhav/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pritishjadhav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pritishjadhav/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pritishjadhav/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Pritishjadhav/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pritishjadhav/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Pritishjadhav/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pritishjadhav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pritishjadhav/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Pritishjadhav/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pritishjadhav/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pritishjadhav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pritishjadhav/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pritishjadhav/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Pritishjadhav/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pritishjadhav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
